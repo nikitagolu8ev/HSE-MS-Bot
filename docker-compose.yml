@@ -3,4 +3,4 @@ services:
   bot:
     build: .
     volumes:
-      - .:/home/db
+      - .:/home/nikitagolu8ev/bot_temp/db
