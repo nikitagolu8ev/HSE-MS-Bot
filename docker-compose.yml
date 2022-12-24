@@ -3,4 +3,4 @@ services:
   bot:
     build: .
     volumes:
-      - .:/home/nikitagolu8ev/bot_temp/db
+      - /home/nikitagolu8ev/HSE-MS-Bot/db:/home/db
